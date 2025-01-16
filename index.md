@@ -6,3 +6,7 @@
 ###### This is my sixth line
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var x = "Hello World";
+```
